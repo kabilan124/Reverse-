@@ -1,5 +1,3 @@
-//public class collatzSequence {
-//}
 import java.util.Scanner;
 public class collatzSequence {
     public static void main(String[] args) {
